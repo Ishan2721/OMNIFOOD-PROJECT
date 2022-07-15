@@ -1,2 +1,2 @@
 # OMNIFOOD-PROJECT
-Made using HTML and CSS
+Made using HTML, CSS and a bit of javascript
